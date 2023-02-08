@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">myhd_oblig1</string>
+
+    <string-array name="Imperil_Measurement">
+        <item>Fluid_Ounce</item>
+        <item>Cup</item>
+        <item>Gallon</item>
+        <item>Hogshead</item>
+    </string-array>
+
+</resources>
