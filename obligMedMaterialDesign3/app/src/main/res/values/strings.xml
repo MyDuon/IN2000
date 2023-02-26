@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">obligMedMaterialDesign3</string>
+    
+    <string-array name="Imperial_Measurement">
+        <item>Fluid_Ounce</item>
+        <item>Cup</item>
+        <item>Gallon</item>
+        <item>Hoghead</item>
+    </string-array>
+</resources>
